@@ -1,0 +1,20 @@
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container-fluid
+{
+    /*background-color:fuchsia;*/
+    height: 100px;
+}
+.row
+{
+    /*background-color:aquamarine;*/
+    margin: 5px;
+}
+.col{
+    /*background-color: darkorange;*/
+    margin: 5px;
+}
